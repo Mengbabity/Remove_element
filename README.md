@@ -12,3 +12,7 @@ There are more details in the algorithm.
 is not equals to val.
 
 And I spend 2 hours solving this problem.I am sad.And my way is too stupid.
+
+#Java
+I use the method of the top vote.And I feel about the huge gap among logics.SAD.
+the method:If the figure is different from val,we put the figure into the nums[i] then i++.
